@@ -1,12 +1,13 @@
-package com.um;
+package com.example.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class UmbnbApplication {
+public class DemoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(UmbnbApplication.class, args);
+		SpringApplication.run(DemoApplication.class, args);
 	}
+
 }

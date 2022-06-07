@@ -1,10 +1,10 @@
-package com.example.demo;
+package com.um.umbnb;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class UmbnbApplicationTests {
 
 	@Test
 	void contextLoads() {

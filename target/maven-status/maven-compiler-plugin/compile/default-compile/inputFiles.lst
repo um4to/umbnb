@@ -2,6 +2,7 @@
 /home/delfina/umbnb/src/main/java/com/um/UmbnbApplication.java
 /home/delfina/umbnb/src/main/java/com/um/models/User.java
 /home/delfina/umbnb/src/main/java/com/um/controller/RentalController.java
+/home/delfina/umbnb/src/main/java/com/um/controller/HomeController.java
 /home/delfina/umbnb/src/main/java/com/um/models/Rental.java
 /home/delfina/umbnb/src/main/java/com/um/models/House.java
 /home/delfina/umbnb/src/main/java/com/um/repositories/UserRepository.java
